@@ -1,13 +1,6 @@
 
-### Creating a Custom GitHub README.md
 
-I'll help you create a professional GitHub README.md file based on the clinic booking system example you shared. Here's a complete README that incorporates all the elements from your screenshots:
-
-```markdown project="Clinic Booking System" file="README.md"
-...
-```
-
-### 2. Open MySQL and Import the Database
+### 1. Open MySQL and Import the Database
 
 You can import the SQL schema and data using the MySQL command-line tool or any GUI like MySQL Workbench.
 
