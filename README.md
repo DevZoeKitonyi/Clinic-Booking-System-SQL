@@ -1,7 +1,7 @@
+1.Clone This Resopitory
 
-1. Clone this Repository
 
-git clone https://github.com/Venny-Shiru/Clinic-Booking-System-SQL-.git
+https://github.com/DevZoeKitonyi/Clinic-Booking-System-SQL.git
 cd Clinic-Booking-System-SQL-
 
 
