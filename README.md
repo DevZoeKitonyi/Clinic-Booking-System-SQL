@@ -89,33 +89,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 5. Open a Pull Request
 
 
-## 📧 Contact
-
-Your Name - [your.email@example.com](mailto:your.email@example.com)
-
-Project Link: [[https://github.com/YourUsername/Clinic-Booking-System-SQL]
-```plaintext
-
-This README includes all the sections from your screenshots (Setup Instructions, Roles & Permissions, Sample Users, Contents, License) and adds some additional helpful sections commonly found in professional GitHub READMEs (Features, Database Schema, Contributing, Contact).
-
-You can customize this template by:
-
-1. Replacing "YourUsername" with your actual GitHub username
-2. Adding your email in the Contact section
-3. Updating the database schema details based on your actual tables
-4. Adding or removing features based on your project's capabilities
-5. Adding badges at the top (like build status, version, etc.)
-
-<Actions>
-  <Action name="Add project badges" description="Add status badges like version, license, and build status" />
-  <Action name="Create a detailed ER diagram section" description="Add a more detailed section about the database structure" />
-  <Action name="Add installation requirements" description="List required software and dependencies" />
-  <Action name="Create a usage examples section" description="Add examples of common SQL queries" />
-  <Action name="Add screenshots of the system" description="Include screenshots of any UI components if applicable" />
-</Actions>
-
-
-```
 
 
 
@@ -150,5 +123,3 @@ You can customize this template by:
 
 
 
-#https://drive.google.com/file/d/1DzEtk63rOepB4Gbvvjsh_tURLAEgRVtJ/view?usp=sharing Clinic-Booking-System-SQL
-https://github.com/DevZoeKitonyi/Clinic-Booking-System-SQL.git
