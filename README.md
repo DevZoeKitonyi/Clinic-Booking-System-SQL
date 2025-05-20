@@ -1,6 +1,11 @@
 
+1. Clone this Repository
 
-### 1. Open MySQL and Import the Database
+git clone https://github.com/Venny-Shiru/Clinic-Booking-System-SQL-.git
+cd Clinic-Booking-System-SQL-
+
+
+### 2. Open MySQL and Import the Database
 
 You can import the SQL schema and data using the MySQL command-line tool or any GUI like MySQL Workbench.
 
